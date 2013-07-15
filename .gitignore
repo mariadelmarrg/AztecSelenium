@@ -9,3 +9,8 @@ target/
 
 # ignore all files ending with ~
 *~ 
+.metadata
+.settings
+target
+/*.classpath
+/*.project
